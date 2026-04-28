@@ -1,9 +1,9 @@
 package academy.devdojo.maratonajava.introducao;
 
-public class OlaDevDojo {
+public class Aula01OlaDevDojo {
     public static void main(String[] args) {
         /*
-            comentario de varias
+            comentario de várias
             linhas
          */
         // comentario de uma unica linha
